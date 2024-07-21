@@ -7,7 +7,6 @@ Data Analysts
 - 👯 I’m looking for Job at analyzing field
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/seenivasan-22d/)
-<br /> [[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]](https://seenu83k@gmail.com)
 - 😄 Pronoun: Seenu
 ### I code in
 <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="16" height="16" src="https://img.icons8.com/officel/16/mysql.png" alt="mysql"/> <img width="48" height="48" src="https://img.icons8.com/color/48/tableau-software.png" alt="tableau-software"/>  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/jupyter.png" alt="jupyter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/numpy.png" alt="numpy"/>
